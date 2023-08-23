@@ -4,8 +4,8 @@
   "description": "",
   "main": "s1.js",
   "scripts": {
-    "dev":"tsx s1.ts",
-    "build":"tsc s1.ts",
+    "dev":"tsx s2.ts",
+    "build":"tsc s2.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
