@@ -1,0 +1,18 @@
+{
+  "name": "23.8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "s1.js",
+  "scripts": {
+    "dev":"tsx s1.ts",
+    "build":"tsc s1.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  }
+}
